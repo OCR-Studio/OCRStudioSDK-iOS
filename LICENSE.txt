@@ -1,0 +1,89 @@
+END USER LICENSE AGREEMENT ON THE USE OF SOFTWARE DEMO
+
+IMPORTANT! Before installing, copying or otherwise using the Software Product, please read carefully the terms and conditions of its use contained in this Agreement. 
+
+Installation, launch, or otherwise using the Software Product shall constitute the proper conclusion of this Agreement and Your full acceptance of all its terms and conditions. 
+
+If You do not agree to accept unconditionally the terms and conditions of this Agreement, You may not install or use the Software Product and must remove a copy of the Software Product and all its components from all Your devices.
+
+1. DEFINITIONS
+
+1.1. "Software Product" means any of the following computer programs:
+	
+	(a) OCR Studio SDK (for iOS);
+	(b) OCR Studio SDK (for Android);
+
+1.2. "Licensor" - OCR Studio L.L.C-FZ
+
+1.3. "User" - any individual or legal entity who uses the Software Product or lawfully owns a copy of the Software Product.
+
+If the Software Product is installed or procured by an individual in the interests of a legal entity, the term "User" will also mean such legal entity.
+
+1.4. "Using the Software Product" - any actions of the User aimed at familiarization with the Software Product properties and testing the Software Product functions, which are allowed under the terms of this Agreement.
+
+1.5. "Demo-version" is a version of the Software Product which is intended for test use under the terms and conditions of this Agreement and which may contain limited functions of the Software Product.
+
+1.6. "Agreement" is a license agreement entered into between the User and the Licensor on the use of the Software Product under the terms and conditions stated in this document by the User joining them by performing any of the following actions: 
+
+	(a) by downloading a copy of the Software Product from the Licensor's website or from software distribution websites;
+	(b) by downloading a copy of the Software Product through a link to download a copy of the Software Product in electronic form; 
+	(c) by installation, launch or otherwise beginning of use of the Demo-version of the Software Product, access to which is provided to the User by the Licensor.
+
+2. SUBJECT OF THE AGREEMENT. THE SOFTWARE PRODUCT USAGE TERMS
+
+2.1. The Licensor gives the User the right to use the Software Product or its Demo-version under the terms of a non-exclusive license subject to the terms of this Agreement.
+
+Namely, the User is entitled to use the Software Product in order to get acquainted with its functionality and for testing purposes, by the following means only:
+
+	(a) Reproduction: reproduction of the Software Product is permitted by recording a copy of the Software Product by the User for the purpose of exercising the other rights listed in (b)-(c) below.
+	(b) Integration: it is allowed to integrate the Software Product in test mode without object modification in a static or dynamic linkage into the User's software for the period of the Agreement.
+	(c) Intended use: The User is entitled to use the Software Product for its functional purposes within the established limits and in accordance with the requirements of this Agreement.
+
+2.2. Other ways and purposes of using the Software Product not expressly provided by this Agreement are unpermitted. In particular, the User may not under this Agreement:
+
+	(a) modify, adapt and change in any way the Software Product and/or its components, as well as information and related materials received from the Licensor under this Agreement;
+	(b) open the technology, emulate, create new versions, modify, decompile, disassemble, decrypt, and perform other actions with the Software Product to obtain information of the algorithms implementation used in them;
+	(c) create a competing derivative software for developing computer program and/or databases, which operates on the basis of or using the Software Product and which is intended for solving tasks similar to the purpose of the Software Product;
+	(d) use the Software Product in business or other constant activity;
+	(e) disclose the information obtained using the Software Product or include it in any database;
+	(f) disclose information about the Software Product functions and the results of its testing or other use;
+	(g) use the Software Product in other ways not specified in this Agreement or in violation of the terms of the Agreement.
+
+2.3. The license is provided to the User without charging any license fees.
+
+2.4. The territory of use is not limited (the whole world).
+
+3. LICENSING PROCEDURE
+
+3.1. The right to use the Software Product under the terms of a non-exclusive license under this Agreement shall be deemed to have been granted since a copy of the Software Product is delivered to the User.
+
+3.2. It is considered that the User has received a copy of the Software Product from the date of providing access to the Software Product by any of the following methods:
+
+	(a) by downloading a copy of the Software Product from the Licensor's website or from software distribution websites;
+	(b) by sending a copy of the Software Product in electronic form through e-mail;
+	(c) by sending a link to download a copy of the Software Product in electronic form through e-mail.
+
+4. PRIVACY
+
+4.1. The Parties agree to consider the entire volume of information (except to the information on the scope of the license) transferred and transmitted to them by the other Party during the conclusion of this Agreement and during the fulfillment of the obligations under the Agreement as the confidential information of the disclosing Party.
+
+In particular, any information and results obtained by the User during testing or other use of the Software Product under this Agreement are confidential.
+
+4.2. The Receiving party shall not disclose (make available it to any third parties, except to the extent of availability with third parties for the corresponding authorities by virtue of express reference by the law, or when the disclosing party agrees in writing to provide confidential information as defined in accordance with paragraph 4.1. of this Agreement, to these third parties) the confidential information of the disclosing party, to which it has gained access during the conclusion of this Agreement and during the fulfillment of the obligations under the Agreement.
+
+4.3. This obligation is valid for the duration of this Agreement and for five years following its termination, unless agreed otherwise.
+
+5. WARRANTIES. LIABILITY OF THE PARTIES
+
+5.1. The Licensor shall acknowledge and guarantee:
+
+	(a) that the Licensor has the exclusive rights to use the Software Product;
+	(b) that the terms of this Agreement do not violate any intellectual property or other rights of third parties in or in connection with the Software Product.
+
+5.2. Except as expressly stated in this Agreement, the Licensor does not make any additional warranties, express or implied, regarding the Software Product.
+
+5.3. Licensor fully reserves the rights to the Software Product and its components (whether they are protected by the intellectual property rights in any jurisdiction or not).
+
+5.4. Any use of the Software Product as well as any of its components in violation of the terms of this Agreement shall be deemed a violation of the rights of the Licensor and/or its partners and shall be the basis for early termination of the User's rights given under this Agreement.
+
+5.5. Any copy of the Software Product including all components of the Software Product in any material medium, which are made and used in violation of the terms of this Agreement shall be immediately destroyed, any person's possession of such copy of the Software Product shall be deemed to be unlawful possession of the copy, and permission to use it shall be terminated.
