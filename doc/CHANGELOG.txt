@@ -1,0 +1,28 @@
+# OCR Studio SDK Changelog
+
+
+
+*** OCR Studio SDK v1.2:
+
++ Added face liveness estimation session "liveness_detection" 
+  for real-time verification of person liveness.
++ Added instruction-based interactive recognition session 
+  "video_authentication" for active document recognition and face matching.
++ Increased the number of supported document types.
++ Miscellaneous fixes.
+
+
+
+*** OCR Studio SDK v1.1:
+
++ Added ProcessData() methods for document's RFID data comparison.
++ Added document RFID tag scanning functions in the demo applications.
+
+
+
+*** OCR Studio SDK v1.0:
+
++ Initial release of the OCR Studio SDK.
+
+
+
