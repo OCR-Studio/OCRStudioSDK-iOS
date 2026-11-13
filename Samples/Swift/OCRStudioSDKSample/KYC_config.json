@@ -1,0 +1,14 @@
+{
+  "target_document": ["anydrvlic", "anyid"],
+  "required_pages": ["front", "back"],
+  "page_limit": [0.45, 0.55],
+  "messages": {
+    "wrong_document": "Please show ...",
+    "need_next_page": {
+      "front": "Flip the document and show the front side",
+      "back": "Flip the document and show the back side"
+    },
+    "wait": "Hold steady",
+    "done": "Recognition Complete"
+  }
+}

@@ -1,0 +1,57 @@
+# OCR Studio SDK Changelog
+
+*** OCR Studio SDK v1.4.1:
+
++ Miscellaneous fixes.
+
+
+
+*** OCR Studio SDK v1.4.0:
+
++ Added Many ID support for several documents in one image recognition
++ Added One-shot KYC for matching faces from IDs with a presenter's one
++ "video_authentication" session removed, two-side interactive document recognition available in "video_recognition" session now
++ 60+ supported document types added
++ 100+ documents templates added
++ PDF-417, QR and Data Matrix barcode recognition quality increased
++ Aztec, QR, DataMatrix barcode recognition performance enhanced
++ Miscellaneous fixes.
+
+
+
+*** OCR Studio SDK v1.3.1:
+
++ Added Industrial OCR support for VIN, meters, container seal numbers, shipping containers, and UAE vehicle license plates
++ Enhanced document detection and classification.
++ Enhanced face matching accuracy.
++ Improved face liveness estimation in the liveness_detection session.
++ Improved instruction-based interactive recognition in the video_authentication session.
++ Increased the number of supported document types.
++ Miscellaneous fixes.
+
+
+
+*** OCR Studio SDK v1.2:
+
++ Added face liveness estimation session "liveness_detection" 
+  for real-time verification of person liveness.
++ Added instruction-based interactive recognition session 
+  "video_authentication" for active document recognition and face matching.
++ Increased the number of supported document types.
++ Miscellaneous fixes.
+
+
+
+*** OCR Studio SDK v1.1:
+
++ Added ProcessData() methods for document's RFID data comparison.
++ Added document RFID tag scanning functions in the demo applications.
+
+
+
+*** OCR Studio SDK v1.0:
+
++ Initial release of the OCR Studio SDK.
+
+
+
